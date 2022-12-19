@@ -1,4 +1,6 @@
-### Alpha9n/あるふぁ
+# Alpha9n/あるふぁ
+
+`鯖缶系専門学生`
 
 ![](https://github-readme-stats.vercel.app/api?username=Alpha9n&show_icons=true&theme=vue-dark)
 
