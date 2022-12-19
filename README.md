@@ -4,6 +4,7 @@
 
 ## 🔷自己紹介 / Introduction
 ```
+//Kotlin
 data class Alpha9nStatus(
     val handleName = "Alpha9n(あるふぁ)"
     val realName = "神保 恒介(じんぼ こうすけ)",
@@ -14,6 +15,8 @@ data class Alpha9nStatus(
 ```
 
 ## 🔗リンク / Links
+
+`//Java`
 *`// GitHub`*  
 **Link(Page.GITHUB , " [Alpha9n](https://github.com/Alpha9n) ");**  
 *`// Twitter`*  
