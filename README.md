@@ -1,4 +1,4 @@
-### Thinking ing now 🤔
+### Alpha9n/あるふぁ
 
 ![](https://github-readme-stats.vercel.app/api?username=Alpha9n&show_icons=true&theme=vue-dark)
 
