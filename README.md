@@ -20,9 +20,6 @@ data class Alpha9nStatus(
 **Link(Page.TWITTER , " [Alpha8n](https://twitter.com/Alpha8n) ");**  
 *`// Discord`*  
 **Link(Page.DISCORD , " [alpha9n#4680](https://discord.gg/user/alpha9n#4680) ");**  
-
-![Twitter Follow](https://img.shields.io/twitter/follow/Alpha8n?style=for-the-badge)
-![Discord](https://img.shields.io/badge/Discord-alpha9n#4680-blue?style=for-the-badge&logo=discord)
 <!--
 **Alpha9n/Alpha9n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
