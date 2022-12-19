@@ -16,7 +16,7 @@ data class Alpha9nStatus(
 
 ## 🔗リンク / Links
 
-`//Java`
+`//Java`  
 *`// GitHub`*  
 **Link(Page.GITHUB , " [Alpha9n](https://github.com/Alpha9n) ");**  
 *`// Twitter`*  
