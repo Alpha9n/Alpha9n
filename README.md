@@ -14,11 +14,11 @@ data class Alpha9nStatus(
 ```
 
 ## 🔗リンク / Links
-// GitHub  
+*`// GitHub`*  
 **Link(Page.GITHUB , " [Alpha9n](https://github.com/Alpha9n) ");**  
-// Twitter  
+*`// Twitter`*  
 **Link(Page.TWITTER , " [Alpha8n](https://twitter.com/Alpha8n) ");**  
-// Discord  
+*`// Discord`*  
 **Link(Page.DISCORD , " [あるーふぁ#4680](https://discord.gg/user/あるーふぁ#4680) ");**  
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Alpha8n?style=for-the-badge)
