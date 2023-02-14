@@ -18,11 +18,11 @@ data class Alpha9nStatus(
 
 `//Java`  
 *`// GitHub`*  
-**Link(Page.GITHUB , " [Alpha9n](https://github.com/Alpha9n) ");**  
+**new Link(Page.GITHUB , " [Alpha9n](https://github.com/Alpha9n) ");**  
 *`// Twitter`*  
-**Link(Page.TWITTER , " [Alpha8n](https://twitter.com/Alpha8n) ");**  
+**new Link(Page.TWITTER , " [Alpha8n](https://twitter.com/Alpha8n) ");**  
 *`// Discord`*  
-**Link(Page.DISCORD , " [alpha9n#4680](https://discord.gg/user/alpha9n#4680) ");**  
+**new Link(Page.DISCORD , " [alpha9n#4680](https://discord.gg/user/alpha9n#4680) ");**  
 <!--
 **Alpha9n/Alpha9n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
