@@ -13,6 +13,7 @@ data class Alpha9nStatus(
     var profession = Profession.VOCATIONAL_SCHOOL_STUDENT, // 専門学生
 )
 ```
+[![wakatime](https://wakatime.com/badge/user/67e37f65-b3fd-43f9-9bdd-ad6486cabfc8.svg)](https://wakatime.com/@67e37f65-b3fd-43f9-9bdd-ad6486cabfc8)
 
 ## 🔗リンク / Links
 
