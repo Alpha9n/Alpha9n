@@ -23,4 +23,4 @@ data class Alpha9nStatus(
 *`// Twitter`*  
 **new Link(Page.X , " [Alpha8n](https://twitter.com/Alpha8n) ");**  
 *`// Discord`*  
-**new Link(Page.DISCORD , " [alpha9n#4680](https://discord.gg/user/alpha9n) ");**  
+**new Link(Page.DISCORD , " [alpha9n](https://discord.gg/user/alpha9n) ");**  
