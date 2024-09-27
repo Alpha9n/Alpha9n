@@ -9,7 +9,7 @@ data class Alpha9nStatus(
     val handleName = "Alpha9n(あるふぁ)"
     val realName = "神保 恒介(じんぼ こうすけ)",
     val age = (LocalDate.now() - LocalDate.of(2003, 8, 4)),
-    var mainLanguages = mutableListOf("Java", "Kotlin")
+    var skillSets = mutableListOf("Java", "Kotlin", "TypeScript")
     var profession = Profession.VOCATIONAL_SCHOOL_STUDENT, // 専門学生
 )
 ```
