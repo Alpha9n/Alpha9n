@@ -7,7 +7,7 @@ data class Alpha9nStatus(
     val realName = "神保 恒介(じんぼ こうすけ)",
     val age = (LocalDate.now() - LocalDate.of(2003, 8, 4)),
     var skillSets = mutableListOf("Java", "Kotlin", "TypeScript")
-    var profession = Profession.VOCATIONAL_SCHOOL_STUDENT, // 専門学生
+    var profession = Profession.BACKEND_ENGINEER,
 )
 ```
 [![wakatime](https://wakatime.com/badge/user/67e37f65-b3fd-43f9-9bdd-ad6486cabfc8.svg)](https://wakatime.com/@67e37f65-b3fd-43f9-9bdd-ad6486cabfc8)
