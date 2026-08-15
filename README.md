@@ -1,32 +1,14 @@
-#  こうすけ / kosukej
-
-*`// 鯖管理系専門学生`*  
-
-## 🔷自己紹介 / Introduction
-`//Kotlin`
-```
-data class KosukejStatus(
-    val handleName = "kosukej"
-    val realName = "神保 恒介(じんぼ こうすけ)",
-    val age = (LocalDate.now() - LocalDate.of(2003, 8, 4)),
-    var mainLanguages = mutableListOf("Java", "Kotlin")
-    var profession = Profession.VOCATIONAL_SCHOOL_STUDENT, // 専門学生
-)
-```
+#  alpha9n
 
 ## 🔗リンク / Links
 
 `//Java`  
 *`// GitHub`*  
-**Link(Page.GITHUB , " [Alpha9n](https://github.com/Alpha9n) ");**  
-*`// RealGitHub`*  
-**Link(Page.GITHUB , " [kosukej](https://github.com/kosukej) ");**  
+**Link(Page.GITHUB , " [Alpha9n](https://github.com/kosukej) ");**  
 *`// Twitter`*  
 **Link(Page.TWITTER , " [Alpha8n](https://twitter.com/Alpha8n) ");**  
-*`// RealTwitter`*  
-**Link(Page.TWITTER , " [kosukej_hal](https://twitter.com/kosukej_hal) ")**  
 *`// Discord`*  
-**Link(Page.DISCORD , " [alpha9n#4680](https://discord.gg/user/alpha9n#4680) ");**  
+**Link(Page.DISCORD , " [alpha9n](https://discord.gg/JQe4pzQ5) ");**  
 
 <!--
 **kosukej/kosukej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
